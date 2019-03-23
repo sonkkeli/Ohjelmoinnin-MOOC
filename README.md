@@ -1,5 +1,4 @@
-# Ohjelmoinnin-MOOC
-Exercises of the advanced programming course (parts 8-14)
+# Ohjelmoinnin-MOOC oppimistavoitteet
     
 # Ohjelmoinnin perusteet
 1	Osaat kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella. Tunnet käsitteet muuttuja, ehtolause ja toistolause, ja osaat käyttää näitä ohjelmissasi. 
