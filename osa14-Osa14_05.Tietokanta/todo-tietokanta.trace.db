@@ -1,0 +1,21 @@
+2019-04-19 20:43:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:46:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:46:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:50:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:50:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
+2019-04-19 20:51:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TODO" already exists; SQL statement:
+CREATE TABLE Todo (id int auto_increment primary key, nimi varchar(255), kuvaus varchar(10000), valmis boolean) [42101-197]
